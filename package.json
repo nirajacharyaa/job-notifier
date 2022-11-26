@@ -1,0 +1,15 @@
+{
+  "name": "cf-job-opening-notifier",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "nodemailer": "^6.8.0",
+    "puppeteer": "^19.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
